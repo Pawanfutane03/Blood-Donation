@@ -1,4 +1,4 @@
- **Project Title: Data Science Model for [Project Purpose]**
+ **Project Title: Data scientist salary prediction using machine learning**
 
 **Overview**  
 This project utilizes **Linear Regression** and **K-Nearest Neighbors (KNN)** to solve [specific problem]. The goal is to predict [outcome, e.g., house prices, sales, etc.] using historical data. By leveraging these machine learning techniques, the model can make accurate predictions and provide valuable insights.
